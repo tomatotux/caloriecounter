@@ -1,3 +1,4 @@
+#!/usr/bin/python
 age = int("raw_input ("Please enter your age: "))
 weight = int("raw_input ("Please enter your weight in pounds: "))
 height = int("raw_input ("Please enter your height in inches: "))
