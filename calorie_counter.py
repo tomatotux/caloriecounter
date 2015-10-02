@@ -13,4 +13,8 @@ if gender = "m" then bmr = male_bmr
   
 print "\nYour BMI is %bmi and your required calorie intake is %bmr"
 
+if 17.5 > BMI > 25 
+  print "\nYour BMI looks a little off. A healthy BMI falls between 17.5 and 25. Perhaps we can help remedy that?
+  else print "\nYour BMI looks good! Keep up the good work!"
+  
 raw_input("\nPress the enter key to close the window.")
